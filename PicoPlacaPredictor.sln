@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PicoPlacaPredictor.ConsoleA
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{D6E5789B-3260-47B9-98E9-40F01DA69696}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PicoPlacaPredictor.UniTests", "tests\PicoPlacaPredictor.UniTests\PicoPlacaPredictor.UniTests.csproj", "{6785FB5E-92E8-44FC-BD78-20B402322A0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{79E435C9-590A-4D43-823E-D68504FE0402}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79E435C9-590A-4D43-823E-D68504FE0402}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79E435C9-590A-4D43-823E-D68504FE0402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6785FB5E-92E8-44FC-BD78-20B402322A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6785FB5E-92E8-44FC-BD78-20B402322A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6785FB5E-92E8-44FC-BD78-20B402322A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6785FB5E-92E8-44FC-BD78-20B402322A0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{3172706C-9C68-41DA-8C3A-C9D710B6743A} = {6BF2A699-47BD-46A3-BE7D-9DA341C59029}
 		{79E435C9-590A-4D43-823E-D68504FE0402} = {6BF2A699-47BD-46A3-BE7D-9DA341C59029}
+		{6785FB5E-92E8-44FC-BD78-20B402322A0E} = {D6E5789B-3260-47B9-98E9-40F01DA69696}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE8BA110-1A3F-4F2D-B33D-B84E53F116C2}
