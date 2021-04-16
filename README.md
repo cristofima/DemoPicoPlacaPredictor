@@ -1,5 +1,5 @@
 # Demo "Pico y Placa" Predictor
-This is a console project using dotnet core 2.2 that predicts whether a car can circulate in the Quito's city based on the "Pico y Placa" law
+This is a console project using dotnet 5.0 that predicts whether a car can circulate in the Quito's city based on the "Pico y Placa" law
 
 To build this project
 ```
